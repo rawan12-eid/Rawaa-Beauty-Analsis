@@ -1,4 +1,4 @@
-## Rawaa Beauty Store - SQL Data Analysis
+## 💄 Rawaa Beauty Store - SQL Data Analysis
 
 A comprehensive SQL project focused on building and analyzing a database for a beauty brand (*Rawaa Store*). This project demonstrates database design, data integrity, and business intelligence reporting.
 
